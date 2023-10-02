@@ -133,3 +133,7 @@ dist
 */archived/*
 */manifest/*
 !example.*
+
+# editor dirs
+.gitpod
+.vscode
